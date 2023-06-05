@@ -3,9 +3,9 @@
 
 - 🔭 Eu sou estudante de **Ciencia de dados**
 
-- 🌱 Atualmente estou aprendendo **Python e Machine Learning**
+- 🌱 Atualmente estou aprendendo **Inteligencia Artificial, Geotecnologia, NLP**
 
-- 💬 Me pergunte sobre **Python, SQL e Google Data Studio**
+- 💬 Me pergunte sobre **Python, Inteligencia Artificial**
 
 - 📫 Voce pode me encontrar atraves do e-mail **eduardo.madp@gmail.com**
 
