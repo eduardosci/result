@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou o Eduardo</h1>
-<h3 align="center">Apaixonado por analise de dados e inteligencia artificial</h3>
+<h3 align="center">Apaixonado por ciencia e inteligencia artificial</h3>
 
 - 🔭 Eu sou estudante de **Ciencia de dados**
 
